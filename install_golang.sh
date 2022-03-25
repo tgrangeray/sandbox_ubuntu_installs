@@ -8,4 +8,3 @@ export GOPATH=$HOME/go
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 x
 source ~/.profile
-go install golang.org/x/tools/...@latest .
