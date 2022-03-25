@@ -1,3 +1,5 @@
+#!/bin/bash
+
 curl -O https://storage.googleapis.com/golang/go1.18.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go
 mkdir -p ~/go

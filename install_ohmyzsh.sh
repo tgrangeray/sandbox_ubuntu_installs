@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Installer la font hack
 sudo apt install fonts-hack-ttf
 # Installer 'the silver search' (https://github.com/ggreer/the_silver_searcher)

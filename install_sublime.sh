@@ -1,5 +1,8 @@
+#!/bin/bash
 # https://www.sublimetext.com/docs/linux_repositories.html#apt
 # https://www.sublimemerge.com/docs/linux_repositories#apt
+
+source ./install_x11.sh
 
 # Install the GPG key
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -

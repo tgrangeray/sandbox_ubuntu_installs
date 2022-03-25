@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Installer git
 sudo apt install git
 # Installer bash-it
